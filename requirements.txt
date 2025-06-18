@@ -1,0 +1,13 @@
+# Web Scraping & Automation
+beautifulsoup4==4.12.2
+requests==2.31.0
+selenium==4.10.0
+
+# Additional dependencies
+lxml==4.9.3
+html5lib==1.1
+webdriver-manager==3.8.6
+
+# Development tools (optional)
+pytest==7.4.0
+autopep8==2.0.2
